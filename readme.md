@@ -42,6 +42,11 @@ This project is focused purely on **UI/UX design**, demonstrating clean layout p
 ---
 
 ---
+## 🌐 Live Demo:  
+👉 [View Live Project](https://movie-ui-clone.vercel.app/)
+---
+
+---
 ## 🖼️ Screenshots
 
 ### 📱 Homepage
