@@ -10,7 +10,7 @@ body{
     color: rgb(115, 111, 111);
 }
 .main{
-    background-image: url(./assets/bg.jpg);
+    background-image: url(../assets/bg.jpg);
     background-position: center center;
     position: relative;
     background-size: 100vw;
