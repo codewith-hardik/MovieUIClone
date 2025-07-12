@@ -14,12 +14,6 @@ This project is focused purely on **UI/UX design**, demonstrating clean layout p
 
 ---
 
-## 🔗 Live Preview
-
-👉 **[View Project Live](https://codewith-hardik.github.io/netflix-ui/)**
-
----
-
 ## ✨ Features
 
 - ✅ Fully responsive layout across devices  
