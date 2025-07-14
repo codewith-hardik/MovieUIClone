@@ -65,12 +65,12 @@ This project is focused purely on **UI/UX design**, demonstrating clean layout p
 1️⃣ **Clone the Repository**
 
 ```bash
-git clone https://github.com/codewith-hardik/netflix-ui.git
+git clone https://github.com/codewith-hardik/MovieUIClone.git
 ```
 
 2️⃣ **Navigate to the Project Folder**
 ```bash
-cd netflix-ui
+cd MovieUIClone
 ```
 3️⃣ **Open index.html in Your Browser**
 
